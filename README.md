@@ -9,14 +9,14 @@ My main objective is to develop software to help people.
 | Tecnologies  |   Tools       |  
 | ------------ |:-------------:| 
 | HTML         | Visual Studio | 
-| SASS         | Nginx         |
+| SASS         | Photoshop     |
 | CSS          | Bootstrap     |  
 | JavaScript   | Material UI   | 
 | React        | GIT /GitHub   | 
 | Node.Js      | Figma         |   
-| Axios        | Photoshop     |   
-| Jest         |               |
-
+| Axios        |
+| Jest         |
+| Nginx        |
 
 <!--
 **RamaBas/RamaBas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
