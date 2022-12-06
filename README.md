@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi I´m Rama 👋
+
+I'm a frontend developer and something else...
+I like the development and research of new technologies, good practices and a solid defender of free software, I´m an autodidact by default and I´m passionate about teaching.
+My main objective is to develop software to help people.
+
+#### The 🖥technologies and 🛠 tools I use are:
+
+| Tecnologies  |   Tools       |  
+| ------------ |:-------------:| 
+| HTML         | Visual Studio | 
+| SASS         | Nginx         |
+| CSS          | Bootstrap     |  
+| JavaScript   | Material UI   | 
+| React        | GIT /GitHub   | 
+| Node.Js      | Figma         |   
+| Axios        | Photoshop     |   
+| Jest         |               |
+
 
 <!--
 **RamaBas/RamaBas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
